@@ -1,62 +1,71 @@
 <h1>
-  👋🏻 Hi,  I'm Hamza 
+  👋🏻 Olá, sou o Geovane.
 </h1>
 
 <div id="header" align="center">
+   <div id="header" align="center">
+    <img src="https://github.com/geovanecarlos/app_queimadas/blob/main/infos_projetos/banner_github.jpg" width="100%" />
+  </div>
   <br>
   <div id="badges">
-    </a>
     <a href="https://www.linkedin.com/in/hamza-elbelghiti/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-    </a>
   </div>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Engineer+Intern+@Blent.ai+👨🏻‍💻;AI+Developer+🤖;Web+Developer+💻)](https://git.io/typing-svg)
+
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Meteorologista+-+UNIFEI+👨🏻‍💻;Mestrando+-+POSMARH+-+UNIFEI🤖;Data+Scientist+💻)](https://git.io/typing-svg)
+
 </div>
 
+#### 👨‍💻 Sobre:
+
+Sou Meteorologista formado pela Universidade Federal de Itajubá (UNIFEI) e atualmente curso Mestrado no Programa de Pós-Graduação em Meio Ambiente e Recursos Hídricos (POSMARH/UNIFEI).
+
+Tenho interesse em desenvolver aplicações práticas que gerem impacto positivo, utilizando dados meteorológicos e ambientais para embasar soluções inovadoras. Busco transformar dados em insights estratégicos, capacitando organizações a tomarem decisões mais assertivas.
+
+Possuo experiência em análise e visualização de dados, utilizando Python e bibliotecas open-source, além de desenvolver aplicações interativas com Streamlit. Também trabalho com Google Earth Engine e QGIS para processamento e análise de dados espaciais.
+
+#### Contato:
+<div id="header">
+  <div id="badges">
+    <a href="https://github.com/geovanecarlos">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 ---
 
-#### 👨‍💻 About Me :
+#### :hammer_and_wrench: Linguagens e Ferramentas :
 
-> « The world is one big data problem. »
-
-This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.
-
-My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for insightful analysis.
-
-My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Terraform, Airflow, Spark, dbt and cloud platforms like GCP, AWS, and Azure. I'm also experienced with some web frameworks and libraries such as Django, Nextjs, RESTful APIs, and Streamlit.
-
----
-
-#### :hammer_and_wrench: Languages and Tools :
-
-##### 💻 Programming : 
+##### 💻 Programação : 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth-engine&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 
+##### 🤖 Bibliotecas : 
 
-##### 🤖 Data & ML : 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Xarray](https://img.shields.io/badge/Xarray-FAA21B?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=flat&logo=geopandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-007FFF?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=folium&logoColor=white)
+![geemap](https://img.shields.io/badge/geemap-008000?style=flat&logo=google-earth&logoColor=white)
+![Leafmap](https://img.shields.io/badge/Leafmap-34A853?style=flat&logo=google-earth&logoColor=white)
 
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
-![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+##### 🌐 UI : 
 
-##### 🌐 Web Dev : 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+##### 🔨 Ferramentas : 
 
-##### 🔨 Tools : 
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
-![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=white&labelColor=5835CC)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 ![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
-![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira&logoColor=white&labelColor=0A0FFF)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamagistral&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/hamagistral)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanecarlos&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/geovanecarlos)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geovanecarlos&theme=github_dark&hide_border=true)
