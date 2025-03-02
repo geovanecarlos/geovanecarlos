@@ -39,24 +39,25 @@ Possuo experiência em análise e visualização de dados, utilizando Python e b
 ##### 📚 Bibliotecas : 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Xarray](https://img.shields.io/badge/Xarray-FAA21B?style=flat&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0f5be1?style=flat&logo=numpy&logoColor=white)
+![Xarray](https://img.shields.io/badge/Xarray-f06913?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-f0510e?style=flat&logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=flat&logo=geopandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-007FFF?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-50c9be?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=folium&logoColor=white)
-![geemap](https://img.shields.io/badge/geemap-008000?style=flat&logo=google-earth&logoColor=white)
-![Leafmap](https://img.shields.io/badge/Leafmap-34A853?style=flat&logo=google-earth&logoColor=white)
+![geemap](https://img.shields.io/badge/geemap-75baff?style=flat&logo=google-earth&logoColor=white)
+![Leafmap](https://img.shields.io/badge/Leafmap-1a7500?style=flat&logo=google-earth&logoColor=white)
 
 ##### 🌐 UI : 
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat&logo=Git&logoColor=white&labelColor=ff0000)
 
 ##### 🔨 Ferramentas : 
 
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Pip](https://img.shields.io/badge/pip-3775A9?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
-![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanecarlos&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/geovanecarlos)
