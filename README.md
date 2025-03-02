@@ -40,9 +40,9 @@ Possuo experiência em análise e visualização de dados, utilizando Python e b
 
 ##### 💻 Programação : 
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth-engine&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth-engine&logoColor=ffffff&labelColor=4285F4)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=ffffff&labelColor=589632)
 
 ##### 📚 Bibliotecas : 
 
