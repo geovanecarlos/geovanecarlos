@@ -24,8 +24,6 @@
   </div>
 </div>
 
-
-
 #### 🧑🏽‍🎓 Sobre:
 
 Sou Meteorologista formado pela Universidade Federal de Itajubá (UNIFEI) e atualmente curso Mestrado no Programa de Pós-Graduação em Meio Ambiente e Recursos Hídricos (POSMARH/UNIFEI).
