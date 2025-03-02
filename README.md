@@ -14,11 +14,11 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Meteorologista+-+UNIFEI+👨🏻‍💻;Mestrando+-+POSMARH+-+UNIFEI🤖;Data+Scientist+💻)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Meteorologista+-+UNIFEI+👨🏽‍🎓;Mestrando+-+POSMARH+-+UNIFEI📚;Data+Scientist+👨🏽‍💻)](https://git.io/typing-svg)
 
 </div>
 
-#### 👨‍💻 Sobre:
+#### 🧑🏽‍🎓 Sobre:
 
 Sou Meteorologista formado pela Universidade Federal de Itajubá (UNIFEI) e atualmente curso Mestrado no Programa de Pós-Graduação em Meio Ambiente e Recursos Hídricos (POSMARH/UNIFEI).
 
@@ -44,7 +44,7 @@ Possuo experiência em análise e visualização de dados, utilizando Python e b
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth-engine&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 
-##### 🤖 Bibliotecas : 
+##### 📚 Bibliotecas : 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
