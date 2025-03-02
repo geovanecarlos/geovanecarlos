@@ -13,9 +13,10 @@
   </div>
 
   <br>
-
+  <div id="header" align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Meteorologista+-+UNIFEI+👨🏽‍🎓;Mestrando+-+POSMARH+-+UNIFEI📚;Data+Scientist+👨🏽‍💻)](https://git.io/typing-svg)
-
+  </div>
+  
 </div>
 
 #### 🧑🏽‍🎓 Sobre:
