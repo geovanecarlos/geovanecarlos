@@ -64,5 +64,5 @@ Possuo experiência em análise e visualização de dados, utilizando Python e b
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanecarlos&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/geovanecarlos)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geovanecarlos&theme=github_dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanecarlos&show_icons=true&theme=merko&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geovanecarlos&theme=merko&hide_border=true)
