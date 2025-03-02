@@ -55,8 +55,8 @@ Possuo experiência em análise e visualização de dados, utilizando Python e b
 
 ##### 🔨 Ferramentas : 
 
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Pip](https://img.shields.io/badge/pip-3775A9?style=flat&logo=python&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-000000?style=flat&logo=anaconda&logoColor=white&labelColor=44A833)
+![Pip](https://img.shields.io/badge/pip-000000?style=flat&logo=python&logoColor=white&labelColor=3775A9)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 
 ---
