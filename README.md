@@ -26,14 +26,6 @@ Tenho interesse em desenvolver aplicações práticas que gerem impacto positivo
 
 Possuo experiência em análise e visualização de dados, utilizando Python e bibliotecas open-source, além de desenvolver aplicações interativas com Streamlit. Também trabalho com Google Earth Engine e QGIS para processamento e análise de dados espaciais.
 
-#### Contato:
-<div id="header">
-  <div id="badges">
-    <a href="https://github.com/geovanecarlos">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-</div>
 ---
 
 #### :hammer_and_wrench: Linguagens e Ferramentas :
