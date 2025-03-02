@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://github.com/geovanecarlos/app_queimadas/blob/main/infos_projetos/banner_github.jpg" width="100%" />
+    <img src="https://github.com/geovanecarlos/geovanecarlos/blob/main/banner_github.JPG" width="100%" />
   </div>
   <br>
   <div id="badges">
