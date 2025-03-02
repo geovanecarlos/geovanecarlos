@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
   <div id="image-container" align="center">
-    <img src="https://github.com/geovanecarlos/geovanecarlos/blob/main/banner_github.JPG" width="100%" />
+    <img src="https://github.com/geovanecarlos/geovanecarlos/blob/main/banner_github.JPG?raw=true" width="100%" />
   </div>
 
   <br>
