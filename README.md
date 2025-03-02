@@ -65,4 +65,3 @@ Possuo experiência em análise e visualização de dados, utilizando Python e b
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanecarlos&show_icons=true&theme=merko&hide_border=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geovanecarlos&theme=merko&hide_border=true)
