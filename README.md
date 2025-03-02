@@ -3,21 +3,28 @@
 </h1>
 
 <div id="header" align="center">
-   <div id="header" align="center">
+  <div id="image-container" align="center">
     <img src="https://github.com/geovanecarlos/geovanecarlos/blob/main/banner_github.JPG" width="100%" />
-  </div>
-  <br>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/geovanecarlos/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </div>
 
   <br>
-  <div id="header" align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Meteorologista+-+UNIFEI+👨🏽‍🎓;Mestrando+-+POSMARH+-+UNIFEI📚;Data+Scientist+👨🏽‍💻)](https://git.io/typing-svg)
+
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/geovanecarlos/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
   </div>
-  
+
+  <br>
+
+  <div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Meteorologista+-+UNIFEI+👨🏽‍🎓;Mestrando+-+POSMARH+-+UNIFEI📚;Data+Scientist+👨🏽‍💻" alt="Typing Text" />
+    </a>
+  </div>
 </div>
+
+
 
 #### 🧑🏽‍🎓 Sobre:
 
