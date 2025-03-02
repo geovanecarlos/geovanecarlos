@@ -1,5 +1,5 @@
 <h1>
-  👋🏻 Olá, sou o Geovane.
+  👋🏻 Olá!
 </h1>
 
 <div id="header" align="center">
