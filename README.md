@@ -50,7 +50,7 @@ Possuo experiência em análise e visualização de dados, utilizando Python e b
 ![Seaborn](https://img.shields.io/badge/Seaborn-50c9be?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=folium&logoColor=white)
-![Geemap](https://img.shields.io/badge/geemap-75baff?style=flat&logo=google-earth&logoColor=white)
+![Geemap](https://img.shields.io/badge/Geemap-75baff?style=flat&logo=google-earth&logoColor=white)
 ![Leafmap](https://img.shields.io/badge/Leafmap-1a7500?style=flat&logo=google-earth&logoColor=white)
 
 ##### 🌐 UI : 
