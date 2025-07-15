@@ -15,13 +15,6 @@
   </div>
   <br>
 
-  <div style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Meteorologista+-+UNIFEI+👨🏽‍🎓;Mestrando+-+POSMARH+-+UNIFEI📚;Data+Scientist+👨🏽‍💻" alt="Typing Text" />
-    </a>
-  </div>
-</div>
-
 #### 🧑🏽‍🎓 Sobre:
 
 Sou Meteorologista formado pela Universidade Federal de Itajubá (UNIFEI) e atualmente curso Mestrado no Programa de Pós-Graduação em Meio Ambiente e Recursos Hídricos (POSMARH/UNIFEI).
