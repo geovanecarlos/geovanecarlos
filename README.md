@@ -1,7 +1,3 @@
-<h1 align="center">
-  👋🏻 Olá!!
-</h1>
-
 <div id="header" align="center">
   <div id="image-container" align="center">
     <img src="https://raw.githubusercontent.com/geovanecarlos/geovanecarlos/refs/heads/main/banner_github.JPG" width="100%" />
@@ -44,18 +40,12 @@ Ferramentas fundamentais para análise e processamento de dados ambientais e esp
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=ffffff&labelColor=589632)
 
 ##### 📚 Bibliotecas para Ciência de Dados
-
-Pacotes voltados à análise estatística, manipulação de dados e visualizações:
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0f5be1?style=flat&logo=numpy&logoColor=white)
 ![Xarray](https://img.shields.io/badge/Xarray-f06913?style=flat&logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-008000?style=flat&logo=geopandas&logoColor=white)
 
 ##### 📊 Visualização de Dados
-
-Bibliotecas utilizadas para construir gráficos, mapas interativos e dashboards:
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-f0510e?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-50c9be?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
@@ -64,15 +54,9 @@ Bibliotecas utilizadas para construir gráficos, mapas interativos e dashboards:
 ![Leafmap](https://img.shields.io/badge/Leafmap-1a7500?style=flat&logo=google-earth&logoColor=white)
 
 ##### 🌐 Desenvolvimento de Interfaces
-
-Ferramenta para criação de aplicações interativas e dashboards personalizados:
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat&logo=Git&logoColor=white&labelColor=ff0000)
 
 ##### 🔧 Ambiente e Controle de Versão
-
-Ferramentas de gerenciamento de pacotes e versionamento de projetos:
-
 ![Conda](https://img.shields.io/badge/Conda-000000?style=flat&logo=anaconda&logoColor=white&labelColor=44A833)
 ![Pip](https://img.shields.io/badge/pip-000000?style=flat&logo=python&logoColor=white&labelColor=3775A9)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
