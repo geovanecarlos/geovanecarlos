@@ -28,13 +28,7 @@ Minha experiência inclui análise e visualização de dados com Python e biblio
 ---
 
 #### :hammer_and_wrench: Tecnologias e Ferramentas
-
-Abaixo, destaco as principais tecnologias com as quais trabalho, organizadas por finalidade:
-
 ##### 💻 Linguagens e Plataformas
-
-Ferramentas fundamentais para análise e processamento de dados ambientais e espaciais:
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth-engine&logoColor=ffffff&labelColor=4285F4)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=ffffff&labelColor=589632)
